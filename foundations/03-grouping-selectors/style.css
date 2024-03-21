@@ -1,0 +1,15 @@
+.nero
+.giallo{
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nero{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.giallo{
+    background-color: yellow;
+}
